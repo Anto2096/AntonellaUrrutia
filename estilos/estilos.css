@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+:root{
+    --tipoImagen:'Playfair Display', serif;
+    --fontTituProducto: 'Raleway', sans-serif;
+    --fontCardProducto: 'Roboto Slab', serif;
+    --fontCardProducto1: 'Merriweather', serif;
+    --clr-white:#ececec;
+}
+
+
+.tamano4{
+    font-size: 1.5vw;
+    margin-left: 30%;
+    font-family: 'Solway', serif;
+    margin-top: 10%;    
+}
+
+
+.cuerpo {
+    font-size: 1.5vw;
+}
+
+.imagen_conocenos{
+
+    /* width: 1903px; */
+    
+    width:50%;
+    height:100%;
+}
+
+.cuerpo{
+    margin-left: 15%;
+    align-items: center;
+    width: 75%;
+    font-family: 'Solway', serif;
+    text-align: justify;
+
+    margin-top: 10%;
+}
+
+.imagen_conocenos-caja{
+
+    
+    display: flex;
+    width: 100%;
+    margin: 1.5%;
+}
+
+.caja_conocenos{
+    background-color: #6bc2ca;
+}
+
+.caja_conocenos1{
+    background-color: #c9b0b0;
+}
+
+.caja_conocenos2{
+    background-color: #47356f;
+}
+
+.caja_conocenos3{
+    background-color: #54a747;
+}
+
+.caja_conocenos4{
+    background-color: #92356e;
+}
+
+.body{
+    background-color: rgb(247, 223, 245);
+}
+
+.Titulo{
+    font-family: 'Solway', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

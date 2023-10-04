@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>MISION 1</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<header style="background-color: blueviolet;">
+<h1>MI NOMBRE ES HAYASHI :D</h1>
+<nav>
+página 1
+página 2 página 3 página 4
+<ul>
+<li><a href="https://www.google.com/?hl=es">página 1</a></li>
+<li>página 2</li>
+<li>página 3</li>
+<li>página 4</li>
+</ul>
+</nav>
+</header>
+<section>
+<h2>sección 1</h2>
+<article>
+<p>
+hola soy un párrafo
+</p>
+</article>
+</section>
+
+
+<section style="background-color: rgb(148, 141, 54);">
+<p style="background-color: rgb(6, 113, 114);">
+hola soy el párrafo 1
+</p>
+<p style="font-size: 300%;">
+hola soy el párrafo 2
+</p>
+<p style="text-align: right;">
+hola soy el párrafo 3
+</p>
+</section>
+
+
+
+<aside style="background-color: hotpink;">hola soy la barra de navegación inferior</aside>
+<footer>hola soy el pie de pagina</footer>
+</body>
+</html>
+<table>
+    <tr>
+    <td>item 1</td>
+    <td>item 2</td>
+    </tr>
+    </table>
+    <table border="2">
+        <tr>
+        <td>item 1</td>
+        <td>item 2</td>
+        </tr>
+        </table>
